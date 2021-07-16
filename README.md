@@ -1,4 +1,5 @@
-### Hi there 👋  This is Birch Kwok's homepage!
+### Hi there 👋  
+### This is Birch Kwok's homepage! 👨‍💻
 
 
 <!--
@@ -10,8 +11,8 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently working on VIPSHOP.com， as a Data Mining Engineer，living in GuangZhou，China.
+🔭  I’m currently working on VIPSHOP.com， as a Data Mining Engineer，living in GuangZhou，China.
 
-👏Welcome to my world！
+👏 Welcome to my world！
 
 [![BirchKwok's GitHub stats](https://github-readme-stats.vercel.app/api?username=BirchKwok&count_private=true&show_icons=true&theme=vue)](https://github.com/BirchKwok/github-readme-stats)
