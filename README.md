@@ -22,4 +22,4 @@ float: right;
 } 
 </html>
 
-<img text-align:right src="https://github-readme-stats.vercel.app/api?username=BirchKwok&count_private=true&show_icons=true&theme=vue)](https://github.com/BirchKwok/github-readme-stats", class="alignright">
+<img text-align:right src="https://github-readme-stats.vercel.app/api?username=BirchKwok&count_private=true&show_icons=true&theme=vue)](https://github.com/BirchKwok/github-readme-stats" class="alignright">
