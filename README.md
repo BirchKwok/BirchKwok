@@ -10,4 +10,3 @@
 
 😋 Favorite Technology:  Deep Learning/Machine Learning/Optimizer Algorithm
 
-[![BirchKwok's GitHub stats](https://github-readme-stats.vercel.app/api?username=BirchKwok&count_private=true&show_icons=true&theme=vue)](https://github.com/BirchKwok/github-readme-stats)
