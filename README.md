@@ -8,5 +8,5 @@
 
 📧 Contact with me:  BirchKwok@gmail.com
 
-😋 Favorite Technology:  Deep Learning/Machine Learning/Optimizer Algorithm
+😋 Love to:  Deep Learning/Machine Learning/Optimizer Algorithm
 
