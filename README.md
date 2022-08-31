@@ -2,7 +2,7 @@
 ### This is Birch Kwok's Homepage! 😎
 
 
-👨‍💻I' m currently working on VIPSHOP.com,  as a Senior Data Mining Engineer,  living in GuangZhou,  China.
+👨‍💻I' m currently working on mddcloud.com.cn, an emerging platform for watching Hong Kong dramas, as a Senior Data analysis Engineer. I live in Guangzhou, China.
 
 👏 Very Welcome to MY WORLD ! 
 
