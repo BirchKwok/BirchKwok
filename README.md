@@ -2,11 +2,7 @@
 ### This is Birch Kwok's Homepage! 😎
 
 
-👨‍💻I' m currently working on mddcloud.com.cn, 
-
-an emerging platform for watching Hong Kong dramas, 
-
-as a Senior Data analysis Engineer. 
+👨‍💻I' m currently working on mddcloud.com.cn, an platform for watching HongKong dramas, as a Senior Data analysis Engineer. 
 
 🏠I live in Guangzhou, China.
 
