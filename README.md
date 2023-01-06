@@ -2,7 +2,7 @@
 ### This is Birch Kwok's Homepage! 😎
 
 
-👨‍💻 I currently work at mddcloud.com.cn, an up-and-coming platform for watching HongKong dramas, where I work as a senior data analysis engineer. 
+👨‍💻 I currently work at mddcloud.com.cn, an up-and-coming platform for watching HongKong dramas, which is a subsidiary of CMC, and is a sibling company of TVB, where I work as a senior data analysis engineer. 
 
 🏠 I live in Guangzhou, Guangdong Province, China.
 
