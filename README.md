@@ -10,5 +10,4 @@
 
 📧 Contact with me:  BirchKwok@gmail.com
 
-😋 Love to:  Deep Learning/Machine Learning/Optimizer Algorithm
 
