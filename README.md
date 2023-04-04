@@ -2,12 +2,12 @@
 ### This is Birch Kwok's Homepage! 😎
 
 
-👨‍💻 I currently work at mddcloud.com.cn, an up-and-coming platform for watching HongKong dramas, which is a subsidiary of CMC Inc., and is a sister company of Television Broadcasts Limited(TVB), where I work as a senior data analysis engineer. 
+👨‍💻 I am currently working at mddcloud.com.cn, an emerging long-video platform that mainly produces Hong Kong dramas. This company is a subsidiary of CMC Inc. and a sister company of Television Broadcasts Limited (TVB). I work as a Senior Data Analytics Engineer, mainly responsible for user behavior analysis, churn prediction, cost management modeling, and user payment behavior prediction. 
 
-🏠 I live in Guangzhou, Guangdong Province, China.
+🏠 I currently reside in Guangzhou, Guangdong Province, China.
 
 👏 Very Welcome to MY WORLD ! 
 
-📧 Contact with me:  BirchKwok@gmail.com
+📧 Contact me at `BirchKwok@gmail.com`
 
 
